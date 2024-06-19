@@ -1,0 +1,28 @@
+nav, ul, li{
+float:right;
+	display: -webkit-inline-box;
+	display: -ms-inline-flexbox;
+	display: inline-flex;
+	margin-right: 30px;
+	margin-top: 5px;
+	-webkit-box-pack: end;
+	    -ms-flex-pack: end;
+	        justify-content: flex-end;
+	-webkit-box-orient:horizontal;
+	-webkit-box-direction:reverse;
+	    -ms-flex-direction:row row-reverse;
+	        flex-direction:row row-reverse;
+	margin-top: 10px;
+	font-family: Helvetica;
+font-size: 25px;
+font-weight: 400;
+line-height: 19.55px;
+color:  #636060;
+text-decoration:none;
+
+}
+a{
+	text-decoration: none;
+	
+	color: #999999;
+}

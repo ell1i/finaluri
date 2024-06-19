@@ -1,0 +1,19 @@
+
+
+div{
+padding-top: 100px;
+position: ;
+}
+img{
+	display:flex;
+	max-width: 100%;
+	
+	position: absolute;
+}
+p{
+	display: flex;
+    padding-top: 590px;
+    padding-left: 330px;
+	position:relative;
+
+}
