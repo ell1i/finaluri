@@ -3,9 +3,49 @@ float:right;
 	display: inline;
 	margin-right: 30px;
 	font-family: Helvetica;
-font-size: 17px;
+font-size: 25px;
 font-weight: 400;
 line-height: 19.55px;
 color:  #636060;
 text-decoration: none;
+
+}
+.article1{
+	margin margin-left: 200px;
+	margin-top: 80px;
+	
+	display: flex;
+	flex-direction:column;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+p{
+	display: block;
+
+	
+}
+span{
+	text-decoration: bold;
+}
+.evt{ 
+  display:flex;
+  justify-content: flex-end;
+  margin-left: 10px ;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 300px;
+  border: 3px solid #73AD21;s}
+
+img{
+	
+	max-width: 100px;
+	max-height: 100px;
+}
+h4{
+	
+
+	display: block;
 }

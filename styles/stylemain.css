@@ -17,3 +17,14 @@ p{
 	position:relative;
 
 }
+
+.container {
+            max-width: 1000px; 
+            margin: 0; 
+            padding-top: 0px ;
+        }
+        .image {
+            width: 100%; /* Stretch the image to fit the container width */
+            height: 200px;
+            display: block; /* Ensures image behaves as a block element */
+        }

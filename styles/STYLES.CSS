@@ -2,7 +2,7 @@ nav, ul, li{
 float:right;
 	display: -webkit-inline-box;
 	display: -ms-inline-flexbox;
-	display: inline-flex;
+	display: inline-block;
 	margin-right: 30px;
 	margin-top: 5px;
 	-webkit-box-pack: end;
